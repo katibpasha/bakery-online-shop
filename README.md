@@ -1,7 +1,7 @@
 # Doea Nouna Bakery Online Shop
 Documentation of Doea Nouna Bakery web project
 
-## Colaborator
+## Collaborator
 Titan Bagus Br. and Vicky Irwanto
 
 ## Technology
